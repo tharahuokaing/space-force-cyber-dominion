@@ -1,3 +1,4 @@
+
 // 🛡️ ULTRA SECURE MODE - BLOCK ALL DEV TOOLS
     (function() {
       // Block right-click
