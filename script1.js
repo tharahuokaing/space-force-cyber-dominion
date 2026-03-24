@@ -1,4 +1,4 @@
-// script1.js - SPACE FORCE SECURITY PROTOCOL v3.0
+// script1.js - SPACE EMPEROR SECURITY PROTOCOL v3.0
 // DUTYFREE Authentication System for Cyber Dominion Dashboard
 
 class SpaceForceSecurity {
